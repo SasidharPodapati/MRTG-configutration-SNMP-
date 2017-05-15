@@ -1,1 +1,0 @@
-# MRTG-configutration-SNMP-
